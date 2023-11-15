@@ -1,0 +1,13 @@
+.todo {
+  width: 375px;
+  min-height: 375px;
+  border-radius: 20px;
+  background: #fff;
+  margin: auto;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 44px;
+  padding-bottom: 30px;
+  margin-bottom: 200px;
+}
